@@ -2,8 +2,8 @@ let menu = `
 *🦅 BLACK EAGLE BOT 🦅*
 Owner: You
 Prefix: .[ ]
-public: on / off 
-private:  .mood on/off
+public: on mode / off 
+private:  .mode on/off
 status: online 
 <!DOCTYPE 
 `========== BLACK EAGLE BOT v2.0 - 202 COMMANDS ==========
