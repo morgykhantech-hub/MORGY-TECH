@@ -5,6 +5,32 @@ Prefix: .[ ]
 public: on / off 
 private:  .mood on/off
 status: online 
+<!DOCTYPE html>
+<html>
+<head><title>BLACK EAGLE BOT PAIR</title></head>
+<body style="text-align:center; padding:50px; background:#000; color:white">
+  <img src="YOUR-LOGO-LINK" width="150"><br><br>
+  <h1>🦅 BLACK EAGLE BOT 🦅</h1>
+  <p>Click below to get pairing code</p>
+  <a href="https://wa.me/254102435369let menu = `
+*🦅 BLACK EAGLE BOT 🦅*
+Owner: You
+Prefix: .
+`let menu = `
+*🦅 BLACK EAGLE BOT 🦅*
+Owner: You
+Prefix: .
+`let menu = `
+*🦅 BLACK EAGLE BOT 🦅*
+Owner: You
+Prefix: .
+`text=.pair" 
+     style="background:red; padding:15px 30px; color:white; text-decoration:none; border-radius:10px">
+     CLICK TO PAIR BOT
+  </a>
+  <p>After clicking, send .pair to get code</p>
+</body>
+</html
 `========== BLACK EAGLE BOT v2.0 - 202 COMMANDS ==========
 
 [AI & CHAT - 20]
