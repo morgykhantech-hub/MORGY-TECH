@@ -1,4 +1,7 @@
-*1. AI & Chat Commands*
+Black eagle 
+├── index.js     <- main file, where commands go
+├── package.json 
+└── .env         <- put your API keys here
 - `.ai [your question]` - Chat with AI
 - `.gpt [prompt]` - Ask GPT directly  
 - `.gemini [prompt]` - Ask Gemini
