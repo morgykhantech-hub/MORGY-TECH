@@ -60,6 +60,9 @@
 - `.unban @user` - Unban user
 - `.block @user` - Block user
 - `.join [group link]` - Join group
+- `.prefix ` - [ ]
+- `public ` -  mode on / of
+- `private ` -  mode on / off 
 
 *6. Info Commands*
 - `.owner` - Show bot owner
@@ -71,6 +74,4 @@
 *Note:* The exact commands depend on the Cypher bot version you cloned. Most use `.` as prefix.
 
 Want me to give you the *full `index.js` code* with 10 of these commands already working? 
-I can send you: `.ai`, `.menu`, `.sticker`, `.ping`, `.imagine` to start with.
-
-Should I drop that code for you?
+I can send you: `.ai`, `.menu`, `.sticker`, `.ping`, `.imagine` to start with 
